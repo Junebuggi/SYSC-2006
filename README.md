@@ -1,5 +1,4 @@
 # SYSC-2006
-C
 
 Hello!
 
